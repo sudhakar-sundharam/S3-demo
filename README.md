@@ -1,7 +1,7 @@
 # S3-demo - AWS Application Load Balancer Project
 
 ## Project Overview
-3 EC2 instances ah create panni, Application Load Balancer (ALB) use panni traffic ah distribute panna project.
+3 EC2 instances created, Application Load Balancer (ALB) used traffic distribute project.
 
 ## Steps Done
 1. Created 3 EC2 Instances in ap-southeast-2 (Sydney) region
